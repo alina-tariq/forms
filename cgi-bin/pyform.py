@@ -27,7 +27,7 @@ ph = phone.split("-")
 html = """Content-type:text/html\r\n\r\n
 <html>
     <head>
-        <title>Lab 6 - Part 2 (Python)</title>
+        <title>Python Form Submission</title>
         <style>
             body {
                 background-color: seashell;
@@ -53,7 +53,7 @@ html = """Content-type:text/html\r\n\r\n
             }
         </style>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="lab6.js"></script>
+        <script src="rbpyformval.js"></script>
         <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lilita+One&display=swap" rel="stylesheet">
     </head>
     <body>

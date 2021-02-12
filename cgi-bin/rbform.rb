@@ -35,8 +35,8 @@ phone = phone.split('-')
 cgi.out {
     cgi.html {
         cgi.head {"\n" +
-            cgi.title {"Lab 6 - Part 2 (Ruby)"} + 
-            cgi.style('type'=>'text/css'){File.read("lab6.css")} +
+            cgi.title {"Ruby Form Submission"} + 
+            cgi.style('type'=>'text/css'){File.read("rbpyform.css")} +
             "<link href=\"https://fonts.googleapis.com/css2?family=Bree+Serifs&family=Lilita+One&display=swap\" rel=\"stylesheet\">"
         } +
         cgi.body { "\n"+
