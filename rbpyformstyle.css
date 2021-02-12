@@ -1,0 +1,35 @@
+body {
+    background-color: seashell;
+    padding-left: 30px;
+}
+
+input {
+    position: relative;
+    top: 0.2em;
+}
+
+#title {
+    font-family: 'Lilita One', cursive;
+    font-size: 1.5em;
+    color: #CC313D;
+    text-shadow: -5px 3px black;
+}
+
+.questions {
+    font-family: 'Sans Serif';
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+    padding-bottom:0px;
+}
+
+.box {
+    display:block;
+    height:1.5em;
+    width:200px;
+}
+
+.addlabels {
+    font-size: 0.75em;
+    color: black;
+}

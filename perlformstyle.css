@@ -1,0 +1,14 @@
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(31, 60, 138);
+}
+
+.prompt {
+    font-family: 'Syne Mono', monospace;
+    color: rgb(138, 31, 72);
+}
+
+select {
+    font-size:0.75em;
+    color: rgb(138, 31, 72);
+}

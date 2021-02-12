@@ -1,0 +1,83 @@
+body {
+    background-color: seashell;
+    padding-left: 30px;
+}
+
+#title {
+    font-family: 'Lilita One', cursive;
+    font-size: 3em;
+    color: #CC313D;
+    text-shadow: -5px 3px black;
+}
+
+#contact {
+    font-family: 'Bree Serif', serif;
+    color: gray;
+}
+
+#phone {
+    font-family: 'Bree Serif', serif;
+    color: grey;
+    display: inline;
+}
+
+.ph1 {
+    font-family: 'Bree Serif', serif;
+    display: inline;
+    color: cornflowerblue;
+    animation: fadeIn ease 5s;
+    -webkit-animation: fadeIn ease 5s;
+    -moz-animation: fadeIn ease 5s;
+    -o-animation: fadeIn ease 5s;
+    -ms-animation: fadeIn ease 5s;
+}
+
+.ph2 {
+    font-family: 'Bree Serif', serif;
+    display: inline;
+    color: lightcoral;
+    animation: fadeIn ease 10s;
+    -webkit-animation: fadeIn ease 10s;
+    -moz-animation: fadeIn ease 10s;
+    -o-animation: fadeIn ease 10s;
+    -ms-animation: fadeIn ease 10s;
+}
+
+.ph3 {
+    font-family: 'Bree Serif', serif;
+    display: inline;
+    color: lightseagreen;
+    animation: fadeIn ease 17s;
+    -webkit-animation: fadeIn ease 17s;
+    -moz-animation: fadeIn ease 17s;
+    -o-animation: fadeIn ease 17s;
+    -ms-animation: fadeIn ease 17s;
+}
+
+@keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+    
+@-moz-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+    
+@-webkit-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+    
+@-o-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+    
+@-ms-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+
+
